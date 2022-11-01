@@ -28,6 +28,10 @@
 #### GeekBrains
 - [Руководитель ИТ-проектов диплом переподготовки](https://github.com/StasVNikitin/StasVNikitin/blob/main/Diplom_PM_GB.pdf)
 - [Web-разработчик. Свидетельство](https://github.com/StasVNikitin/StasVNikitin/blob/main/Diplom_Web_Prog_GB.pdf)
+- [Laravel. Глубокое погружение](https://gb.ru/certificates/1028284)
+- [Реляционные базы данных](https://gb.ru/certificates/1594072)
+- [Базы Данных](https://gb.ru/certificates/666670)
+- [Python](https://gb.ru/certificates/1228662) 
 
 
 ### Реализованные проекты:
