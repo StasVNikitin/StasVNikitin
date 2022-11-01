@@ -14,4 +14,4 @@
 
 ### Сертификаты Нетологии
 
-- 1C-разработчик 
+- 1C-разработчик (https://github.com/StasVNikitin/StasVNikitin/blob/main/1C_dev_Netology.pdf)
