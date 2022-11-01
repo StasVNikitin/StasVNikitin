@@ -27,6 +27,7 @@
 
 #### GeekBrains
 - [Руководитель ИТ-проектов диплом переподготовки](https://github.com/StasVNikitin/StasVNikitin/blob/main/Diplom_PM_GB.pdf)
+- [Web-разработчик. Свидетельство](https://github.com/StasVNikitin/StasVNikitin/blob/main/Diplom_Web_Prog_GB.pdf)
 
 
 ### Реализованные проекты:
