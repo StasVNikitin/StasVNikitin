@@ -19,11 +19,11 @@
 
 ### Дипломы и Сертификаты 
 #### Нетология
-- 1С-разработчик [диплом переподготовки](https://github.com/StasVNikitin/StasVNikitin/blob/main/Diplom_1C_Dev_Netology.pdf)
+- 1С-разработчик [диплом](https://github.com/StasVNikitin/StasVNikitin/blob/main/Diplom_1C_Dev_Netology.pdf)
 - 1C-разработчик [сертификат](https://github.com/StasVNikitin/StasVNikitin/blob/main/1C_dev_Netology.pdf)
 
 #### GeekBrains
-- Руководитель ИТ-проектов [диплом переподготовки](https://github.com/StasVNikitin/StasVNikitin/blob/main/Diplom_PM_GB.pdf)
+- Руководитель ИТ-проектов [диплом](https://github.com/StasVNikitin/StasVNikitin/blob/main/Diplom_PM_GB.pdf)
 - Web-разработчик [cвидетельство](https://github.com/StasVNikitin/StasVNikitin/blob/main/Diplom_Web_Prog_GB.pdf)
 - Laravel. Глубокое погружение [сертификат](https://gb.ru/certificates/1028284)
 - Реляционные базы данных [сертификат](https://gb.ru/certificates/1594072)
