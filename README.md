@@ -4,11 +4,6 @@
 
 опыт в ИТ более 20 лет, опыт работы с 1С с 2018 года.
 
-#### Связаться со мной:
-[Контакты](https://stasvnikitin.taplink.ws)
-
-[T.me](https://t.me/StasVNikitin)
-
 ### Мой стек
 
 1С, БСП, Консоль запросов, 1С Предприятие 8.3, 8.2, SQL, Linux, Windows, Bash, PostgreSQL, Apache, Nginx, Git, REST, Postfix, PHP, Laravel Framework, Python, Django Framework,  KVM, Docker, Docker-compose, VMWare, HyperV
