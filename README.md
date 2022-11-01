@@ -19,7 +19,7 @@
 - [Курсовая работа по программе 1С разработчик Нетология.](https://github.com/StasVNikitin/StasVNikitin/blob/main/Kursovay_rabota_Nikitin_SV_Netology.dt) Описание [требований к результату](https://github.com/netology-code/applied_development/blob/master/diploma-b-reqs.md) выполнения курсовой работы по программе обучения 1С разработчик Нетология.
 - Учебная база ООО "На все руки мастер" по [учебному пособию](https://v8.1c.ru/metod/books/135383.htm) "М.Г. Радченко, Е.Ю. Хрусталева 1С:Предприятие 8.P. Практическое пособие разработчика." [выгрузка базы](https://github.com/StasVNikitin/StasVNikitin/blob/main/NaVseRukiMaster.dt) и отдельно [выгрузка конфигурации](https://github.com/StasVNikitin/StasVNikitin/blob/main/NaVseRukiMaster_for_filial.cf) для маштабирования филиалов.
 - Диетологический калькулятор для орфанных заболеваний (https://github.com/StasVNikitin/DietCalc)
-- Согласование счетов на базе [БСП](https://v8.1c.ru/tekhnologii/standartnye-biblioteki/1s-biblioteka-standartnykh-podsistem/?) - библиотеки стандартных подсистем 
+- Согласование счетов на базе [БСП](https://v8.1c.ru/tekhnologii/standartnye-biblioteki/1s-biblioteka-standartnykh-podsistem/?) - библиотека стандартных подсистем 
 
 ### Дипломы и Сертификаты 
 #### Нетология
