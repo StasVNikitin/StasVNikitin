@@ -8,7 +8,8 @@
 
 ### Вот, что я умею
 
-- 1C. Дипломная работа по курсу 1С разработчик Нетология 
+- [Дипломная работа по курсу 1С разработчик Нетология.](https://github.com/StasVNikitin/StasVNikitin/blob/main/Diplomnaja_rabota_IT_Firma_NikitinSV_Netology.dt) Описание [задание](https://github.com/netology-code/1c-homeworks/blob/master/diploma-c.md) для дипломной работы по курсу 1С разработчик Нетология.
+- [Курсовая работа по курсу 1С разработчик Нетология.]() 
 
 ### Сертификаты Нетологии
 
