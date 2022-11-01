@@ -18,6 +18,7 @@
 - [Дипломная работа по курсу 1С разработчик Нетология.](https://github.com/StasVNikitin/StasVNikitin/blob/main/Diplomnaja_rabota_IT_Firma_NikitinSV_Netology.dt) Описание [требований к результату](https://github.com/netology-code/1c-homeworks/blob/master/diploma-c-reqs.md) выполнения дипломной работы по курсу 1С разработчик Нетология.
 - [Курсовая работа по программе 1С разработчик Нетология.](https://github.com/StasVNikitin/StasVNikitin/blob/main/Kursovay_rabota_Nikitin_SV_Netology.dt) Описание [требований к результату](https://github.com/netology-code/applied_development/blob/master/diploma-b-reqs.md) выполнения курсовой работы по программе обучения 1С разработчик Нетология.
 - Учебная база ООО "На все руки мастер" по учебному пособию "М.Г. Радченко, Е.Ю. Хрусталева 1С:Предприятие 8.P. Практическое пособие разработчика." [выгрузка базы](https://github.com/StasVNikitin/StasVNikitin/blob/main/NaVseRukiMaster.dt) и отдельно [выгрузка конфигурации](https://github.com/StasVNikitin/StasVNikitin/blob/main/NaVseRukiMaster_for_filial.cf) для маштабирования филиалов.
+- Диетологический калькулятор для орфанных заоблеваний (https://github.com/StasVNikitin/DietCalc)
 
 ### Дипломы и Сертификаты 
 #### Нетология
