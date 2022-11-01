@@ -12,7 +12,7 @@
 - [Курсовая работа по программе 1С разработчик Нетология.](https://github.com/StasVNikitin/StasVNikitin/blob/main/Kursovay_rabota_Nikitin_SV_Netology.dt) Описание [требований к результату](https://github.com/netology-code/applied_development/blob/master/diploma-b-reqs.md) выполнения курсовой работы по программе обучения 1С разработчик Нетология.
 
 ### Дипломы и Сертификаты 
-#### Нетологии
+#### Нетология
 - [1С-разработчик диплом переподготовки](https://github.com/StasVNikitin/StasVNikitin/blob/main/Diplom_1C_Dev_Netology.pdf)
 - [1C-разработчик сертификат](https://github.com/StasVNikitin/StasVNikitin/blob/main/1C_dev_Netology.pdf)
 
