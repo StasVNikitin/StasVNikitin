@@ -11,10 +11,14 @@
 - [Дипломная работа по курсу 1С разработчик Нетология.](https://github.com/StasVNikitin/StasVNikitin/blob/main/Diplomnaja_rabota_IT_Firma_NikitinSV_Netology.dt) Описание [требований к результату](https://github.com/netology-code/1c-homeworks/blob/master/diploma-c-reqs.md) выполнения дипломной работы по курсу 1С разработчик Нетология.
 - [Курсовая работа по программе 1С разработчик Нетология.](https://github.com/StasVNikitin/StasVNikitin/blob/main/Kursovay_rabota_Nikitin_SV_Netology.dt) Описание [требований к результату](https://github.com/netology-code/applied_development/blob/master/diploma-b-reqs.md) выполнения курсовой работы по программе обучения 1С разработчик Нетология.
 
-### Сертификаты Нетологии
-
-- [1С-разработчик Диплом переподготовки](https://github.com/StasVNikitin/StasVNikitin/blob/main/1C_dev_Netology.pdf)
+### Дипломы и Сертификаты 
+#### Нетологии
+- [1С-разработчик диплом переподготовки](https://github.com/StasVNikitin/StasVNikitin/blob/main/Diplom_1C_Dev_Netology.pdf)
 - [1C-разработчик сертификат](https://github.com/StasVNikitin/StasVNikitin/blob/main/1C_dev_Netology.pdf)
+
+#### GeekBrains
+- [Руководитель ИТ-проектов диплом переподготовки](https://github.com/StasVNikitin/StasVNikitin/blob/main/Diplom_PM_GB.pdf)
+
 
 ### Реализованные проекты:
 #### ЭСТЕЙТ ПРОПЕРТИ - г. Москва, Январь 2018 – по настоящее время
