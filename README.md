@@ -11,7 +11,7 @@
 
 ### Мой стек
 
-1С, SQL, Linux, Windows, Bash, PostgreSQL, Apache, Nginx, Git, REST, Postfix, PHP, Framework Laravel, Python, Django Framework,  KVM, Docker, Docker-compose, VMWare, HyperV
+1С, БСП, Консоль запросов, SQL, Linux, Windows, Bash, PostgreSQL, Apache, Nginx, Git, REST, Postfix, PHP, Framework Laravel, Python, Django Framework,  KVM, Docker, Docker-compose, VMWare, HyperV
 
 ### Вот, что я умею
 
