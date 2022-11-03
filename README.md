@@ -6,7 +6,7 @@
 
 ### Мой стек
 
-1С, БСП, Консоль запросов, 1С Предприятие 8.3, 8.2, SQL, Linux, Windows, Bash, PostgreSQL, Apache, Nginx, Git, REST, Postfix, PHP, Laravel Framework, Python, Django Framework,  KVM, Docker, Docker-compose, VMWare, HyperV
+1С, СКД, БСП, Консоль запросов, 1С Предприятие 8.3, 8.2, SQL, Linux, Windows, Bash, PostgreSQL, Apache, Nginx, Git, REST, Postfix, PHP, Laravel Framework, Python, Django Framework,  KVM, Docker, Docker-compose, VMWare, HyperV
 
 ### Вот, что я умею
 
